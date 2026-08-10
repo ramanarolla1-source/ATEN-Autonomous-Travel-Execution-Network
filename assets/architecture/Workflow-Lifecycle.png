@@ -1,0 +1,34 @@
+Main Service AI Agent
+        │
+        ▼
+Writes Primary Workflow
+        │
+        ▼
+MCP
+        │
+        ▼
+KeeperHub
+        │
+        ▼
+Workflow Validation
+        │
+        ▼
+Simulation
+        │
+        ▼
+Workflow Orchestration
+        │
+        ▼
+Reliable On-Chain Execution
+        │
+        ▼
+Retry Logic
+        │
+        ▼
+Audit Trail
+        │
+        ▼
+Workflow Preservation
+        │
+        ▼
+Reusable Workflows
